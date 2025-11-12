@@ -41,7 +41,7 @@ The script generates the following CSV files:
 - **DiskSpace.csv**: Displays disk usage and available space for each disk.
 - **NetworkInfo.csv**: Displays network adapter details and IP addresses.
 
-You can view a **sample CSV file** [here](https://github.com/yourusername/PowerShell-System-Info-Automation/blob/main/SampleSystemInfo.csv).
+You can view a **sample CSV file** [here]([https://github.com/yourusername/PowerShell-System-Info-Automation/blob/main/SampleSystemInfo.csv](https://github.com/deborahogita/PowerShell-System-Info-Automation/blob/main/DiskSpace.csv)).
 
 ## Customization
 You can modify the script to:
